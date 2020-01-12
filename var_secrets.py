@@ -1,8 +1,8 @@
-MASTER_ID = None #Discord ID
+MASTER_ID = 521927129290768404
 
-CLIENT_ID = None #Discord given
-CLIENT_SECRET = None #Discord given
-TOKEN = None #Discord given
+CLIENT_ID = 665780196489560138
+CLIENT_SECRET = kQWtsVDqwbAudBwd3XhgnNvG35s4SRy1
+TOKEN = NjY1NzgwMTk2NDg5NTYwMTM4.XhqnhQ.H7AiXqG_QjmbM3sR97B05SuzUm0
 
 imgr_client_id = None #IMGR Given
 imgr_client_secret = None #IMGR Given
